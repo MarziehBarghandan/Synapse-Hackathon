@@ -40,7 +40,7 @@ Add all tables and give your lake database a name, publish.
 ![image](https://user-images.githubusercontent.com/40135849/174099972-ec67f719-4c29-4439-b23a-3696f030807f.png)  
 **Mapping:** Make sure you have Skip duplicate input and output columns tick for all steps below.  
 ![image](https://user-images.githubusercontent.com/40135849/174661898-2fd03b4e-4815-4ae5-8424-989bf9d6ed62.png)  
-7. Un-check Auto mapping and manualy set below mappings.  
+7. Un-check Auto mapping and manualy set below mappings.Make sure that you include only the below columns. Import schema and choose the below columns. 
 ![image](https://user-images.githubusercontent.com/40135849/174100629-ffc0bd83-5872-482b-a73b-b42b96f6828e.png)  
 8. Create another Sink activity from WWICustomer output stream. Rename the sink to LegalEntityCustomer and select LegalEntityCustomer as Database Table. follow same step as above. make below map:  
 ![image](https://user-images.githubusercontent.com/40135849/174661702-0a86c362-505f-43d6-8e57-4a4b5f894693.png)  
