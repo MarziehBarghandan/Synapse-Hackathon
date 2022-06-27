@@ -31,7 +31,8 @@ At this step we need to create data pipelines to ingest data from WWI Sales data
 ![image](https://user-images.githubusercontent.com/31285245/171845525-b6b9bd40-35db-4578-939a-c79f4f1a000e.png)
 ![image](https://user-images.githubusercontent.com/31285245/171846038-d5a777f3-ff5a-4b1e-967f-d1b99711a64f.png)
 
-6.  Choose a target destination to land data. make sure to choose .parquet or .csv format as this will be a requirement  to use lakedatabase patterns in Exercise 2.                                                                                                                                              ![image](https://user-images.githubusercontent.com/31285245/171846469-f5c8ebb7-af29-44d6-8c77-f2e2a339b63f.png)
+6.  Choose a target destination to land data. make sure to choose .parquet or .csv format as this will be a requirement  to use lakedatabase patterns in Exercise 2.       ![image](https://user-images.githubusercontent.com/31285245/175988738-eeae6b17-2678-4586-ac0c-c752cc84ab4b.png)
+  ![image](https://user-images.githubusercontent.com/31285245/171846469-f5c8ebb7-af29-44d6-8c77-f2e2a339b63f.png)
  ![image](https://user-images.githubusercontent.com/31285245/171846563-09c9ceb4-b3d4-45d0-86e5-821f4402506b.png)
  ![image](https://user-images.githubusercontent.com/31285245/171846702-ee6fe692-a3fd-4aa7-9d7e-0030f0f8f45d.png)
 
