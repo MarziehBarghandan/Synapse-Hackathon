@@ -83,6 +83,7 @@ Within this task we will use Spark pool to read data from Lake database do some 
 ``` python
 from pyspark.sql.functions import col
 import pyspark.sql.types
+from pyspark.sql.types import *
 
 %%pyspark
 # Reading data from Customer table, select columns that we will use.
