@@ -101,7 +101,7 @@ inner_join.printSchema()
 
 # Casting TimestampType
 inner_join=inner_join.withColumn("CustomerEstablishedDate",col("CustomerEstablishedDate").cast(TimestampType()))\
-                     .withColumn("LegalEntityDateOfEstablishment",col("LegalEntityDateOfEstablishment").cast(TimestampType())
+                     .withColumn("LegalEntityDateOfEstablishment",col("LegalEntityDateOfEstablishment").cast(TimestampType()))
                      
 # Create a schema to match CustomerDim table
 CustomerDimSchema =    [StructField('CustomerId',IntegerType(),False),\
