@@ -11,9 +11,9 @@ Or [create a single Synapse workspace](<https://docs.microsoft.com/en-us/azure/s
 
 ## Exercise 1: [Data ingestion](<./Exercise 1.md>) 
 At this exercise you connect to different data sources that WWI needs to collect data and create a pipeline to move data into a centralized data lake. No transformation over data is required. The solution should cover delta load for big tables.  
-Task 1: [Create a raw zone in your ADLSG2](<https://github.com/nasimmehrshid/APG_Lab/blob/main/Exercise1.md#task-1-create-a-raw-zone-in-your-adlsg2>)  
-Task 2: [Create copy pipeline](<https://github.com/nasimmehrshid/APG_Lab/blob/main/Exercise1.md#task-2-create-copy-pipeline>)  
-Task 3: [Run your pipeline and monitor](<https://github.com/nasimmehrshid/APG_Lab/blob/main/Exercise1.md#task-3-run-your-pipeline-and-monitor>)
+Task 1: [Create a raw zone in your ADLSG2](<https://github.com/MarziehBarghandan/Synapse-Hackathon/blob/main/Exercise%201.md#task-1-create-a-raw-zone-in-your-adlsg2>)  
+Task 2: [Create copy pipeline](<https://github.com/MarziehBarghandan/Synapse-Hackathon/blob/main/Exercise%201.md#task-2-create-copy-pipeline>)  
+Task 3: [Run your pipeline and monitor](<https://github.com/MarziehBarghandan/Synapse-Hackathon/blob/main/Exercise%201.md#task-3-run-your-pipeline-and-monitor>)
 ## Exercise 2: [Data preparation and transformation](<./Exercise 2.md>) 
 At this exercise you get to explore different flavors of Synapse runtime. Do ad-hoc data wrangling and use Azure Synapse Lake databse patterns.  
 Task 1: [Data quality checks](<https://github.com/MarziehBarghandan/Synapse-Hackathon/blob/main/Exercise%202.md#task-1-data-quality-checks>)  
